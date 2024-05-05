@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("ccc");
         System.out.println("pull test");
         System.out.println("uuu");
+        // 强制同步更新
     }
 }
