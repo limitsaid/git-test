@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hit-fix test ");
         System.out.println("ccc");
         System.out.println("master test ");
+        System.out.println("uuu");
     }
 }
